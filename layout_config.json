@@ -1,0 +1,50 @@
+{
+  "_comment": "ArcGIS Pro Layout Helper Configuration - See PLAN.md for details",
+  
+  "category_order": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h"
+  ],
+  
+  "category_colors": {
+    "a": [255, 0, 0],
+    "b": [0, 255, 0],
+    "c": [0, 0, 255],
+    "d": [255, 255, 0],
+    "e": [255, 0, 255],
+    "f": [0, 255, 255],
+    "g": [128, 128, 128],
+    "h": [255, 128, 0]
+  },
+  
+  "activity_thresholds": {
+    "Low": {
+      "min": 0,
+      "max": 9,
+      "color": [0, 0, 255]
+    },
+    "Med": {
+      "min": 10,
+      "max": 20,
+      "color": [0, 128, 0]
+    },
+    "High": {
+      "min": 21,
+      "max": null,
+      "color": [255, 140, 0]
+    }
+  },
+  
+  "table_styling": {
+    "row_colors": {
+      "odd": [64, 64, 64],
+      "even": [80, 80, 80]
+    }
+  }
+}
