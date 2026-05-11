@@ -1,0 +1,5 @@
+origin_lat,origin_lon,dest_lat,dest_lon,label
+51.5,-0.1,40.7,-74.0,London to New York
+34.0,-118.2,35.7,139.7,Los Angeles to Tokyo
+-33.9,151.2,51.5,-0.1,Sydney to London
+999.0,0.0,0.0,0.0,INVALID - lat out of range
