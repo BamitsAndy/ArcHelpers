@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pwsh -NoProfile -File .claude/skills/pro-help-v2/scripts/resolve.ps1:*)",
+      "WebFetch(domain:doc.esri.com)"
+    ]
+  }
+}
